@@ -6,5 +6,15 @@ LIHAT HASIL BELAJAR DISIMI
 
 ## GIT COMMANDS
 
+```
+    git add .
+```
+```
+    git commit -m "your comment here" .
+```
+```
+    git push .
+```
+
 ## BRLAJAR HTML CSS
 
