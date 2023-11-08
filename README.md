@@ -1,7 +1,8 @@
 # sacode--laravel-day02
 
 ## GITHUB PAGES URL
-LIHAT HASIL BELAJAR DISIMI
+LIHAT HASIL BELAJAR DISINI
+https://tenouye-marten.github.io/sacode--laravel-day02/
 
 
 ## GIT COMMANDS
